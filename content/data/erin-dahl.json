@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Erin Dahl",
+    "role": "Research Data Analyst- Alumni",
+    "bio": "<a href=\"https://karstenslab.github.io/lab_members/erin/\"> Bio</a>\n\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/featured_hu96a162ea7faa1b456b478c5e25f42b03_1117538_680x500_fill_q90_lanczos_smart1_3.png",
+        "altText": "First Last",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-neutral-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    }
+}

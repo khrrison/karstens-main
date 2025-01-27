@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Emory Neer",
+    "role": "EXITO-Alumni",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/featured_hu4d0a3816f924fe83721362685ebbd0ae_307861_550x0_resize_q90_lanczos_3.png",
+        "altText": "First Last",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-neutral-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "bio": "<a href=\"https\\\\://karstenslab.github.io/lab\\\\\\_members/emory/\"> Bio</a>\n\n"
+}

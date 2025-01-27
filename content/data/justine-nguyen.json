@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Justine Nguyen",
+    "role": "Graduate Student- Alumni",
+    "bio": "<a href=\"https\\://karstenslab.github.io/lab\\_members/justine/\"> Bio</a>\n\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/featured_hudfc5aa8c00dc32bf158a8377ad469c21_531827_680x500_fill_q90_lanczos_smart1_3.png",
+        "altText": "First Last",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-neutral-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    }
+}

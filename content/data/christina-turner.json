@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Christina Turner",
+    "role": "Masters Student",
+    "bio": "<a href=\"https://karstenslab.github.io/lab_members/christina/\"> Bio</a>\n\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/featured_hu868f85dd37d5683d715f0d9d91af94f3_175999_550x0_resize_q90_lanczos_3.png",
+        "altText": "First Last",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-neutral-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    }
+}

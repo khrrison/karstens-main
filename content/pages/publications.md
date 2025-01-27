@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: pricing
+slug: publications
 sections:
   - title:
       text: this is a test
