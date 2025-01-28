@@ -8,7 +8,7 @@ topSections:
       text: Lab Updates & News
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: 'Featured Posts'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
