@@ -5,10 +5,10 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Lab Updates & News
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -20,9 +20,9 @@ topSections:
     styles:
       self:
         padding:
-          - pt-28
+          - pt-10
           - pb-0
-          - pl-4
+          - pl-0
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
@@ -49,7 +49,7 @@ postFeed:
   showAuthor: true
   actions: []
   elementId: null
-  variant: three-col-grid
+  variant: two-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
 ---

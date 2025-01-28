@@ -2,11 +2,16 @@
     "type": "Person",
     "name": "Keisha Harrison",
     "role": "Post Doctoral Scholar",
-    "bio": "Bio\n",
+    "bio": "<a href=\"https://karstens-lab.netlify.app/keisha/\">Bio</a>",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "url": "/images/keisha.jpg",
+        "altText": "Keisha Harrison",
+        "link": {
+            "url": "https://karstens-lab.netlify.app/keisha/",
+            "target": "_self",
+            "title": "Learn more about Keisha Harrison"
+        },
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -16,7 +21,7 @@
             }
         }
     },
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "styles": {
         "self": {
             "padding": [

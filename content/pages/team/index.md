@@ -43,7 +43,7 @@ sections:
     people:
       - content/data/lisakarstens.json
       - content/data/christina-turner.json
-      - content/data/keishaharrison.json
+      - content/data/keisha.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
