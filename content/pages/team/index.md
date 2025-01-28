@@ -32,7 +32,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 80
-      url: /images/abstract-background.svg
+      url: /images/ohsubanner.jpg
   - title:
       text: Current
       color: text-dark
@@ -44,6 +44,8 @@ sections:
       - content/data/lisakarstens.json
       - content/data/christina-turner.json
       - content/data/keisha.json
+      - content/data/charlesparker.json
+      - content/data/scottmcloud.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
