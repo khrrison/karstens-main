@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Lisa Karstens, PhD is an Assistant Professor at Oregon Health & Science
+      Lisa Karstens, PhD is an Associate Professor at Oregon Health & Science
       University in the Department of Medical Informatics and Clinical
       Epidemiology (Division of Bioinformatics and Computational Biomedicine)
       with a joint appointment in Obstetrics and Gynecology (Division of
