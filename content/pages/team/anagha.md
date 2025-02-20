@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Anagha Shenoy
+title: Anagha 
 sections:
   - type: GenericSection
-    title: Student
+    title:
       type: TitleBlock
-      text: Anagha Shenoy
+      text: Anagha
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Student
+      label: Senior Research Associate- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:

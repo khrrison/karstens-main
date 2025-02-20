@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Kate Bowie
+title: Benji
 sections:
   - type: GenericSection
-    title: PhD Alumni
+    title:
       type: TitleBlock
-      text: Kate Bowie
+      text: Benji
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: PhD Alumni
+      label: Senior Research Associate- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -22,13 +22,13 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/kate-bowie.png
+        /images/benji-lamp.jpeg
       altText: Image alt text placeholder
       elementId: ''
       styles:
         self:
           borderRadius: medium
-slug: team/kate-bowie
+slug: team/benji-lamp
 isDraft: false
 seo:
   type: Seo

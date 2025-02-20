@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Erin Dahl
+title: Erin
 sections:
   - type: GenericSection
-    title: Alumni Research Data Analyst
+    title:
       type: TitleBlock
-      text: Erin Dahl
+      text: Erin
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Alumni Research Data Analyst
+      label: Senior Research Associate- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:

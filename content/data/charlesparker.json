@@ -2,10 +2,10 @@
     "type": "Person",
     "name": "Charles Parker",
     "role": "Student",
-    "bio": "<a href=\"\"> Bio</a>\n\n",
+    "bio": "<a href=\"https://karstens-lab.netlify.app/team/charles-parker\"> Bio</a>\n\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/pizza_profile_anonymous.jpg",
         "altText": "First Last",
         "styles": {
             "self": {

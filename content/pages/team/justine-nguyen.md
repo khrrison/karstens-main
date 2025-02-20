@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Justine Nguyen
+title: Benji
 sections:
   - type: GenericSection
-    title: Alumni- Graduate Student
+    title:
       type: TitleBlock
-      text: Justine Nguyen
+      text: Benji
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Alumni- Graduate Student
+      label: Senior Research Associate- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:

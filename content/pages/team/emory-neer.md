@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Emory Neer
+title: Emory
 sections:
   - type: GenericSection
-    title: Alumni- EXITO
+    title:
       type: TitleBlock
-      text: Emory Neer
+      text: Emory
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Alumni- EXITO
+      label: Senior Research Associate- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -28,7 +28,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-slug: team/benji-lamp
+slug: team/emory-neer
 isDraft: false
 seo:
   type: Seo

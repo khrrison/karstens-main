@@ -3,7 +3,7 @@ type: PageLayout
 title: Charles Parker
 sections:
   - type: GenericSection
-    title: Student
+    title:
       type: TitleBlock
       text: Charles Parker
       color: text-dark
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Senior Research Associate- Alumnus
+      label: Student Researcher
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/pizza_profile_anonymous.jpg
+        /images/featured_hud8240cdfbe18ff11694eb4cef11f0985_256643_680x500_fill_q90_lanczos_smart1_3.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
