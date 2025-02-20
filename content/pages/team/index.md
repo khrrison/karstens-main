@@ -43,9 +43,6 @@ sections:
     people:
       - content/data/lisakarstens.json
       - content/data/christina-turner.json
-      - content/data/keisha.json
-      - content/data/charlesparker.json
-      - content/data/scottmcloud.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
