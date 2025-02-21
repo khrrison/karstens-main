@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Anagha 
+title: Anagha Shenoy
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Anagha
+      text: Anagha Shenoy
       color: text-dark
     subtitle: ''
     text: >
@@ -32,7 +32,7 @@ slug: team/anagha
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Lab Member
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg

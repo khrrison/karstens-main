@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Student Researcher
+      label: Masters Student Researcher
       color: text-primary
     colors: bg-light-fg-dark
     styles:

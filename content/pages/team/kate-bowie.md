@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Benji
+title: Kate Bowie
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Benji
+      text: Kate Bowie
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Senior Research Associate- Alumnus
+      label: PhD- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:

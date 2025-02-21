@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Benji
+title: Benji Lamp
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Benji
+      text: Benji Lamp
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Senior Research Associate- Alumnus
+      label: Undergraduate Student Researcher
       color: text-primary
     colors: bg-light-fg-dark
     styles:

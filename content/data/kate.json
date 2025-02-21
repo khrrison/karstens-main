@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Kate Bowie",
     "role": "Graduate Student- Alumni",
-    "bio": "<a href=\"https\\://karstens-lab.netlify.com/team/kate-bowie\"> Bio</a>\n\n",
+    "bio": "<a href=\"https://karstens-lab.netlify.app/team/kate-bowie\"> Bio</a>\n\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/katie-bowie.png",

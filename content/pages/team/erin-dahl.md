@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Erin
+title: Erin Dahl
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Erin
+      text: Erin Dahl
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Senior Research Associate- Alumnus
+      label: Alumnus - Research Data Analyst
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -32,7 +32,7 @@ slug: team/erin-dahl
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Erin Dahl
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg

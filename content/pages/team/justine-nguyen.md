@@ -1,11 +1,11 @@
 ---
 type: PageLayout
-title: Benji
+title: Justine Nguyen
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Benji
+      text: Justine Nguyen
       color: text-dark
     subtitle: ''
     text: >
@@ -13,7 +13,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Senior Research Associate- Alumnus
+      label: Graduate Student- Alumnus
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -32,7 +32,7 @@ slug: team/justine-nguyen
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Lab Members
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg

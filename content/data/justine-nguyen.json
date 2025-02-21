@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Justine Nguyen",
     "role": "Graduate Student- Alumni",
-    "bio": "<a href=\"https\\://karstens-lab.netlify.com/team/justine\"> Bio</a>\n\n",
+    "bio": "<a href=\"https://karstens-lab.netlify.app/team/justine-nguyen\"> Bio</a>\n\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/justine.png",

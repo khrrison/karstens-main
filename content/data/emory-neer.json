@@ -1,10 +1,11 @@
 {
     "type": "Person",
     "name": "Emory Neer",
-    "role": "EXITO-Alumni",
+    "role": "Student EXITO- Alumni",
+    "bio": "<a href=\"https://karstens-lab.netlify.app/team/emory-neer\"> Bio</a>\n\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/featured_hu4d0a3816f924fe83721362685ebbd0ae_307861_550x0_resize_q90_lanczos_3.png",
+        "url": "/images/emory-neer.png",
         "altText": "First Last",
         "styles": {
             "self": {
@@ -31,6 +32,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": "<a href=\"https\\\\://karstenslab.github.io/lab\\\\\\_members/emory/\"> Bio</a>\n\n"
+    }
 }
