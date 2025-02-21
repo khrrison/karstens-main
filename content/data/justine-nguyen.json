@@ -2,10 +2,10 @@
     "type": "Person",
     "name": "Justine Nguyen",
     "role": "Graduate Student- Alumni",
-    "bio": "<a href=\"https\\://karstenslab.github.io/lab\\_members/justine/\"> Bio</a>\n\n",
+    "bio": "<a href=\"https\\://karstens-lab.netlify.com/team/justine\"> Bio</a>\n\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/featured_hudfc5aa8c00dc32bf158a8377ad469c21_531827_680x500_fill_q90_lanczos_smart1_3.png",
+        "url": "/images/justine.png",
         "altText": "First Last",
         "styles": {
             "self": {

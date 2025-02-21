@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/featured_hud8240cdfbe18ff11694eb4cef11f0985_256643_680x500_fill_q90_lanczos_smart1_3.png
+        /images/pizza_profile_anonymous.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -32,7 +32,7 @@ slug: team/charles-parker
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Lab Members
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg

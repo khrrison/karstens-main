@@ -25,7 +25,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    backgroundImage:
+    backgroundImage: 
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
@@ -43,6 +43,10 @@ sections:
     people:
       - content/data/lisakarstens.json
       - content/data/christina-turner.json
+      - content/data/keisha.json
+      - content/data/charlesparker.json
+      - content/data/benji.json
+
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -85,7 +89,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Lab Members
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
