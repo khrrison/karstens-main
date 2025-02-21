@@ -74,7 +74,7 @@ sections:
       - content/data/emory-neer.json
       - content/data/erin-dahl.json
       - content/data/justine-nguyen.json
-      - content/data/katie-bowie.json
+      - content/data/kate.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -90,7 +90,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Lab Members
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: .
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
