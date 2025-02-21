@@ -37,6 +37,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "/contact",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
